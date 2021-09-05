@@ -1,0 +1,79 @@
+.container__1 {
+	display: flex;
+}
+.box__1 {
+	background: #f1f1f2;
+	width: 50%;
+}
+.section__1 {
+	margin-top: 120px;
+	margin-left: 125px;
+	width: 300px;
+}
+.container__1 img {
+	width: 50%;
+}
+.section__1 h1 {
+	font-size: 45px;
+	font-style: bold;
+}
+.section__1 h3 {
+	margin-top: 25px;
+	font-size: 15px;
+}
+.section__1 button {
+	width: 160px;
+	height: 45px;
+	box-sizing: border-box;
+	border-radius: 5px;
+	color: white;
+	background: #f7941e;
+	text-transform: uppercase;
+	cursor: pointer;
+	border: none;
+	font-size: 14px;
+	margin-top: 40px;
+}
+.section__1 button:hover {
+	background: #f7951ed2;
+}
+
+.container__2 img {
+	width: 50%;
+}
+.container__2 {
+	display: flex;
+}
+.box__2 {
+	background: #f1f1f2;
+	width: 50%;
+}
+.section__2 h2 {
+	font-size: 25px;
+}
+.section__2 p {
+	margin-top: 25px;
+	font-size: 17px;
+}
+.section__2 {
+	margin-top: 120px;
+	margin-left: 90px;
+	width: 400px;
+}
+.section__2 button {
+	width: 160px;
+	height: 45px;
+	border: 1px solid #f7941e;
+	box-sizing: border-box;
+	border-radius: 5px;
+	color: #f7941e;
+	background: none;
+	text-transform: uppercase;
+	cursor: pointer;
+	font-size: 14px;
+	margin-top: 40px;
+}
+.section__2 button:hover {
+	border: 1px solid #f7951e8e;
+	color: #f7951e8e;
+}

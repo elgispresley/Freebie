@@ -1,0 +1,44 @@
+.footer__box {
+	width: 900px;
+	margin: 0 auto;
+}
+.links__menu {
+	display: flex;
+	justify-content: space-around;
+}
+.links__menu li,
+a {
+	list-style-type: none;
+	text-decoration: none;
+	font-size: 17px;
+	color: black;
+	font-weight: bolder;
+	font-size: 13px;
+}
+.links__menu li {
+	margin-right: 31px;
+}
+.links {
+	margin-top: 100px;
+	
+}
+.border__line {
+	margin-top: 40px;
+	border: 1px solid black;
+}
+.links__network {
+	margin-top: 55px;
+	text-align: center;
+}
+.links__network a {
+   margin-left: 10px;
+	margin-right: 30px;
+}
+.date {
+	margin-top: 60px;
+	text-align: center;
+	margin-bottom: 25px;
+}
+.date p {
+	font-size: 14px;
+}

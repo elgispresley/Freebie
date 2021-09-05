@@ -1,0 +1,39 @@
+body {
+	min-width: 1400px;
+}
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Poppins;
+	font-size: 17px;
+}
+.containers {
+	width: 1400px;
+	margin: 0 auto;
+}
+/* @media screen and (max-width: 1440px)  {
+	.containers {
+		width: 1200px;
+	}
+}
+@media screen and (max-width: 1199px)  {
+	.containers {
+		width: 960px;
+	}
+}
+@media screen and (max-width: 991px)  {
+	.containers {
+		width: 720px;
+	}
+}
+@media screen and (max-width: 767px)  {
+	.containers {
+		width: 540px;
+	}
+}
+@media screen and (max-width: 575px)  {
+	.containers {
+		width: 100%;
+		padding: 0 15px;
+	}
+} */
